@@ -1,0 +1,53 @@
+.table-tags
+{
+    max-width: 290px;
+    margin: 5px 0px 2px 0px;
+}
+
+.table-image
+{
+    vertical-align: bottom;
+    height: 175px;
+}
+
+.table-soft
+{
+    vertical-align: middle;
+    height: 175px;
+}
+
+.game-image
+{
+    width: 150px;
+    height: 150px;
+}
+
+.soft-image
+{
+    width: 100px;
+    height: 100px;
+    margin: 5px 5px 0px 15px;
+}
+
+.table-td
+{
+    vertical-align: top;
+}
+
+.table-description
+{
+    max-width: 290px;
+     font-size:16px !important;
+}
+
+
+.table-title
+{
+    font-size:18px !important;
+}
+
+.code-multiplayer
+{
+    font-size:11px !important;
+    background-color:#FF0000 !important
+}
